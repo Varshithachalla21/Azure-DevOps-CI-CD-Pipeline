@@ -46,7 +46,7 @@ The pipeline automates the deployment of Databricks notebooks from a **developme
 ---
 
 ## 📌 Step-by-Step Setup
-For detailed setup instructions, refer to [CI_CD_Step_By_Step.md](CI_CD_Step_By_Step.md).
+For detailed setup instructions, refer to [AzureDatabricks-CI-CD-Runbook-v1.0](AzureDatabricks-CI-CD-Runbook-v1.0).
 
 ---
 
